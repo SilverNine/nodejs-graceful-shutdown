@@ -129,9 +129,9 @@ set DEBUG=nodejs-graceful-shutdown
 | 1.0.0   | 2015-09-14 | initial release |
 
 [npm-image]: https://img.shields.io/npm/v/nodejs-graceful-shutdown.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/nodejs-graceful-shutdown
+[npm-url]: https://www.npmjs.com/package/nodejs-graceful-shutdown
 [downloads-image]: https://img.shields.io/npm/dm/nodejs-graceful-shutdown.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/nodejs-graceful-shutdown
+[downloads-url]: https://www.npmjs.com/package/nodejs-graceful-shutdown
 [license-url]: https://github.com/silvernine/nodejs-graceful-shutdown/blob/master/LICENSE
 [license-img]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [npmjs-license]: https://img.shields.io/npm/l/nodejs-graceful-shutdown.svg?style=flat-square
