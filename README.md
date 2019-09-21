@@ -8,10 +8,11 @@ Gracefully shuts down [node.js][nodejs-url] http server.
 [![Closed Issues][closed-issues-img]][closed-issues-url]
 [![MIT license][license-img]][license-url]
 
-- simple to use
-- configurable to your needs
-- add your own cleanup function
-- the project referred to "https://github.com/sebhildebrandt/http-graceful-shutdown" and tried to improve it further.
+- Simple to use
+- Configurable to your needs
+- Add your own cleanup function
+- The project referred to "https://github.com/sebhildebrandt/http-graceful-shutdown" and tried to improve it further.
+- If you use pm2 in a container environment, consider pm2-runtime
 
 ## Quick Start
 
@@ -91,11 +92,6 @@ afterAll(async () => {
   await shutdown()
 })
 ```
-
-### Major (breaking) Changes - Version 2
-
-- **renamed** option: `callback`: now to `finally`: place your (not time consuming) function, that will be handled at the end of the shutdown (not in dev-mode)
-- **new** option: `onShutdown`: place your function, that will handle your additional cleanup things. Needs to return a promise
 
 ### Option Reference
 
