@@ -6,10 +6,6 @@ Gracefully shuts down [node.js][nodejs-url] http server.
 [![NPM Downloads][downloads-image]][downloads-url]
 [![Git Issues][issues-img]][issues-url]
 [![Closed Issues][closed-issues-img]][closed-issues-url]
-[![deps status][daviddm-img]][daviddm-url]
-[![Code Quality: Javascript][lgtm-badge]][lgtm-badge-url]
-[![Total alerts][lgtm-alerts]][lgtm-alerts-url]
-[![Caretaker][caretaker-image]][caretaker-url]
 [![MIT license][license-img]][license-url]
 
 - simple to use
@@ -139,19 +135,11 @@ set DEBUG=nodejs-graceful-shutdown
 [license-url]: https://github.com/silvernine/nodejs-graceful-shutdown/blob/master/LICENSE
 [license-img]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [npmjs-license]: https://img.shields.io/npm/l/nodejs-graceful-shutdown.svg?style=flat-square
-[lgtm-badge]: https://img.shields.io/lgtm/grade/javascript/g/silvernine/nodejs-graceful-shutdown.svg?style=flat-square
-[lgtm-badge-url]: https://lgtm.com/projects/g/silvernine/nodejs-graceful-shutdown/context:javascript
-[lgtm-alerts]: https://img.shields.io/lgtm/alerts/g/silvernine/nodejs-graceful-shutdown.svg?style=flat-square
-[lgtm-alerts-url]: https://lgtm.com/projects/g/silvernine/nodejs-graceful-shutdown/alerts
-[caretaker-url]: https://github.com/silvernine
-[caretaker-image]: https://img.shields.io/badge/caretaker-silvernine-blue.svg?style=flat-square
 [nodejs-url]: https://nodejs.org/en/
 [express-url]: https://github.com/strongloop/expressjs.com
 [koa-url]: https://github.com/koajs/koa
 [http-url]: https://nodejs.org/api/http.html
 [debug-url]: https://github.com/visionmedia/debug
-[daviddm-url]: https://david-dm.org/silvernine/nodejs-graceful-shutdown
-[daviddm-img]: https://img.shields.io/david/silvernine/nodejs-graceful-shutdown.svg?style=flat-square
 [issues-img]: https://img.shields.io/github/issues/silvernine/nodejs-graceful-shutdown.svg?style=flat-square
 [issues-url]: https://github.com/silvernine/nodejs-graceful-shutdown/issues
 [closed-issues-img]: https://img.shields.io/github/issues-closed-raw/silvernine/nodejs-graceful-shutdown.svg?style=flat-square
