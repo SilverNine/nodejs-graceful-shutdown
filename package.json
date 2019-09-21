@@ -1,0 +1,36 @@
+{
+  "name": "nodejs-graceful-shutdown",
+  "version": "1.0.0",
+  "description": "nodejs graceful shutdown",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silvernine/nodejs-graceful-shutdown.git"
+  },
+  "keywords": [
+    "shutdown",
+    "graceful",
+    "gracefulshutdown",
+    "graceful-shutdown"
+  ],
+  "author": "Eungoo Jung <akasilvernine@gmail.com> (http://silvernine.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silvernine/nodejs-graceful-shutdown/issues"
+  },
+  "homepage": "https://github.com/silvernine/nodejs-graceful-shutdown",
+  "dependencies": {
+    "debug": "^4.1.1"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
