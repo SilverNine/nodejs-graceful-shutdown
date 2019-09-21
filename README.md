@@ -126,7 +126,7 @@ set DEBUG=nodejs-graceful-shutdown
 
 | Version | Date       | Comment         |
 | ------- | ---------- | --------------- |
-| 1.0.0   | 2015-09-14 | initial release |
+| 1.0.0   | 2019-09-21 | initial release |
 
 [npm-image]: https://img.shields.io/npm/v/nodejs-graceful-shutdown.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/nodejs-graceful-shutdown
