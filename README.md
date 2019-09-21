@@ -11,7 +11,7 @@ Gracefully shuts down [node.js][nodejs-url] http server.
 - simple to use
 - configurable to your needs
 - add your own cleanup function
-- the project referred to "https://github.com/silvernine/http-graceful-shutdown" and tried to improve it further.
+- the project referred to "https://github.com/sebhildebrandt/http-graceful-shutdown" and tried to improve it further.
 
 ## Quick Start
 
